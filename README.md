@@ -7,4 +7,4 @@ Includes my solutions for codeforces contests.
 
 ## To see the contest questions copy the link below after changing the id from 0000 to one you want
 
-codefaorces.com/contest/0000
+https://codeforces.com/contest/0000
