@@ -14,4 +14,5 @@ To reach the question you want you can use the links below
 |[Codeforces 1352](https://codeforces.com/contest/1352)|[Here](https://github.com/e-hengirmen/Codeforces/tree/master/1352)|
 |[Codeforces 1385](https://codeforces.com/contest/1385)|[Here](https://github.com/e-hengirmen/Codeforces/tree/master/1385)|
 |[Codeforces 1392](https://codeforces.com/contest/1392)|[Here](https://github.com/e-hengirmen/Codeforces/tree/master/1392)|
+|[Codeforces 1419](https://codeforces.com/contest/1419)|[Here](https://github.com/e-hengirmen/Codeforces/tree/master/1419)|
 
